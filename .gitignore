@@ -7,3 +7,5 @@
 utils/__pycache__
 
 **/*.pt
+
+**/*.jpg
