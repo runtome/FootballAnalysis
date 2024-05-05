@@ -1,0 +1,9 @@
+/utils/__pycache__/
+**/__pycache__/
+**/*.mp4
+**/*.avi
+**/*.pyc
+
+utils/__pycache__
+
+**/*.pt
