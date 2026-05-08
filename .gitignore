@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local/editor files
+.env
+.env.*
+*.log
+.idea/
+.vscode/
+
+# Model weights and ML artifacts
+*.pt
+*.onnx
+*.engine
+*.weights
+runs/
+models/
+
+# Generated outputs
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.csv
+
+# Raw/local datasets
+data/
+data/raw_videos/
+data/frames/
+data/processed/
